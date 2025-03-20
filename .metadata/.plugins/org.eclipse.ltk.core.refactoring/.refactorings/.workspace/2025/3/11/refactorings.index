@@ -1,7 +1,0 @@
-1741946972810	Delete resource 'can_hal'
-1741946980505	Delete resource 'can_compressor'
-1741946990041	Delete resource 'uart_by_peripheral_method'
-1742060878496	Delete resource 'bootloader_application/Core/Src/_bootloader_.rtf'
-1742060933135	Delete resource 'bootloader_application/Core/Src/uart.h'
-1742061034218	Delete resource 'bootloader_application/Core/Src/appliction.h'
-1742061411490	Delete resource 'application/Core/Inc/led.c'

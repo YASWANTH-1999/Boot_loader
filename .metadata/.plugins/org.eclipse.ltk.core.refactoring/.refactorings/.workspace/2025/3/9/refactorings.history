@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;can_hal/Core/Src/can_by_ry.c&apos;" deleteContents="false" description="Delete resource &apos;can_hal/Core/Src/can_by_ry.c&apos;" element1="/can_hal/Core/Src/can_by_ry.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1740837392197"/>&#x0A;<refactoring comment="Delete resource &apos;can_hal/Core/Inc/can_by_ry.h&apos;" deleteContents="false" description="Delete resource &apos;can_hal/Core/Inc/can_by_ry.h&apos;" element1="/can_hal/Core/Inc/can_by_ry.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1740837404499"/>
-</session>

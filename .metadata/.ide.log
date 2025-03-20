@@ -1,6 +1,0 @@
-2025-03-15 23:15:37,589 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
-2025-03-15 23:15:37,626 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
-2025-03-15 23:15:37,628 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
-2025-03-15 23:15:37,798 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
-2025-03-15 23:15:37,803 [INFO] ApiDb:448 - Save user favorites file C:\Users\maday/.stm32cubeide/favorites.mcus.txt: 0 item(s)
-2025-03-15 23:15:37,803 [INFO] ApiDb:452 - User favorites MCUs=[]
